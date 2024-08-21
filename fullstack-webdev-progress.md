@@ -18,10 +18,10 @@ Here’s how the list would look:
 - ✅ **CSS Basics**: Selectors, properties, and values
 - ✅ **Box Model**: Understanding margin, border, padding, and content
 - ✅ **Flexbox**: Creating flexible layouts with flexbox properties
-- ⬜ **Grid Layout**: Using CSS Grid for complex layouts
+- ✅ **Grid Layout**: Using CSS Grid for complex layouts
 - ✅ **Styling Text**: Fonts, text alignment, text decoration, line-height
 - ✅ **Colors and Backgrounds**: Color properties, gradients, background images
-- ⬜ **Responsive Design**: Media queries, responsive units (%, vw, vh), mobile-first design
+- ✅ **Responsive Design**: Media queries, responsive units (%, vw, vh), mobile-first design
 - ✅ **CSS Positioning**: Static, relative, absolute, fixed, and sticky positioning
 - ✅ **Pseudo-classes and Pseudo-elements**: Hover effects, styling first/last elements, content insertion
 
@@ -30,7 +30,7 @@ Here’s how the list would look:
 - ✅ **Functions**: Function declaration, expressions, arrow functions
 - ⬜ **DOM Manipulation**: Selecting elements, changing content, adding/removing elements
 - ⬜ **Events**: Event listeners, handling events like click, mouseover, keypress
-- ⬜ **Control Structures**: If-else, switch-case, loops (for, while, do-while)
+- ✅ **Control Structures**: If-else, switch-case, loops (for, while, do-while)
 - ⬜ **Arrays and Objects**: Creating and manipulating arrays and objects, array methods
 - ✅ **Form Validation**: Checking user input, providing feedback
 - ⬜ **ES6 Features**: Let/const, template literals, destructuring, spread/rest operators
